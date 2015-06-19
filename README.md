@@ -8,7 +8,7 @@ Spring Boot + Swagger2 Sample Web Application (POC)
     <td>swagger default api docs service (JSON)</td>
   </tr>
   <tr>
-    <td>{host:port}/v2/api</td>
+    <td>{host:port}/api</td>
     <td>swagger ui page</td>
   </tr>
   <tr>
